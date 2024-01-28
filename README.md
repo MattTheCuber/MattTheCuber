@@ -4,3 +4,5 @@
 ![](https://raw.githubusercontent.com/MattTheCuber/github-stats-transparent/output/generated/languages.svg)
 
 </a>
+
+![Metrics](/github-metrics.svg)
