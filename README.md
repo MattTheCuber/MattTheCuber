@@ -20,7 +20,7 @@
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MattTheCuber&theme=transparent" alt="Profile card" width="100%" height="auto"></a>
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MattTheCuber&theme=transparent" alt="Statistics of languages ​​in commits" width="49.7%" height="auto"></a>
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MattTheCuber&theme=transparent" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MattTheCuber&theme=transparent" alt="Data on commits per day" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MattTheCuber&theme=transparent&utcOffset=-4" alt="Data on commits per day" width="49.7%" height="auto"></a>
 
 </div>
 
